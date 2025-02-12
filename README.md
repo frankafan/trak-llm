@@ -21,6 +21,10 @@ Model Interpretation and Performance Improvement with Large Language Models and 
 - **qnli_gpt.ipynb**: Implements GPT model for QNLI question-answering tasks.
 - **qnli_rag_full.ipynb**: Implements RAG (Retrieval-Augmented Generation) model for full QNLI tasks.
 
+## Project Report
+
+For detailed methodology, results, and analysis, please refer to the [project report](report.pdf).
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
